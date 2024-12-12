@@ -1,3 +1,3 @@
 <B>HURAA</b>
 
-Kumpulan Tugas Kecerdasan Buatan 
+Tugas Mata Kuliah Kecerdasan Buatan di Jurusan Data Sains Dan Kecerdasan Buatan
